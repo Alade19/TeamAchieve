@@ -7,7 +7,8 @@
   
   <div class="grid grid-cols-1 lg:grid-cols-2 h-screen w-full">
     <div class="bg-[#F8EAFF] py-[24px] px-[45px] h-full hidden lg:block">
-        <div class="">
+        <!-- [#F8EAFF] -->
+        <div class="h-full">
             <BannerArea />
         </div>
     </div>
