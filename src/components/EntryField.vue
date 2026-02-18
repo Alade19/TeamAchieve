@@ -11,7 +11,7 @@
 </script>
 
 <template>
-  <div class=" px-[16px] py-[40px] md:py-0 md:px-0 md:w-[620px] md:h-[438px]">
+  <div class=" px-[16px] py-[40px] lg:py-0 md:px-0 md:w-[620px] md:h-[438px]">
     <div class="lg:hidden w-full flex place-content-center mb-4">
         <img :src="images.Logo" alt="Logo" class="w-[198px] h-[86px]" />
     </div>

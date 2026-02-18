@@ -12,7 +12,7 @@
         </div>
     </div>
     <div class=" h-full">
-        <div class="h-screen md:flex md:items-center justify-center">
+        <div class="h-screen md:flex lg:items-center justify-center">
             <EntryField />
         </div>
         
